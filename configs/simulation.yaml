@@ -1,0 +1,12 @@
+simulation:
+  n_riders: 100000
+  n_drivers: 20000
+  n_trips: 100000
+  n_zones: 30
+  seed: 42
+
+causal_effects:
+  surge_on_booking: -0.12
+  surge_on_cancellation: 0.08
+  discount_on_booking: 0.15
+  discount_on_cancellation: -0.05
