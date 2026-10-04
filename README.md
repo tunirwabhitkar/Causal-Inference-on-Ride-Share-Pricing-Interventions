@@ -1,5 +1,9 @@
 # Causal Inference on Ride-Share Pricing Interventions
 
+## 🚀 Live Demo
+
+👉 **[Try the Interactive Streamlit Dashboard](https://causal-inference-on-ride-share-pricing-interventions-dabxuf63j.streamlit.app/)**
+
 ## 🚖 Project Overview
 This project investigates the causal impact of ride-share pricing interventions, specifically surge pricing, on rider demand and conversion. By creating a synthetic dataset with known ground-truth causal effects, we demonstrate why traditional correlation analysis fails in observational settings due to confounding variables like demand intensity, and how causal inference methods can recover the true effect.
 
